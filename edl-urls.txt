@@ -55,6 +55,9 @@ ActionGroup.EastUS2,https://raw.githubusercontent.com/netaryx/palo-alto-azure-se
 ActionGroup.EastUS2EUAP,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/ActionGroup.EastUS2EUAP.txt,all
 ActionGroup.EastUS2EUAP,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/ActionGroup.EastUS2EUAP-v4.txt,ipv4
 ActionGroup.EastUS2EUAP,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/ActionGroup.EastUS2EUAP-v6.txt,ipv6
+ActionGroup.EastUS3,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/ActionGroup.EastUS3.txt,all
+ActionGroup.EastUS3,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/ActionGroup.EastUS3-v4.txt,ipv4
+ActionGroup.EastUS3,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/ActionGroup.EastUS3-v6.txt,ipv6
 ActionGroup.EastUSSTG,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/ActionGroup.EastUSSTG.txt,all
 ActionGroup.EastUSSTG,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/ActionGroup.EastUSSTG-v4.txt,ipv4
 ActionGroup.EastUSSTG,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/ActionGroup.EastUSSTG-v6.txt,ipv6
@@ -265,6 +268,9 @@ ApiManagement.EastUS2,https://raw.githubusercontent.com/netaryx/palo-alto-azure-
 ApiManagement.EastUS2EUAP,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/ApiManagement.EastUS2EUAP.txt,all
 ApiManagement.EastUS2EUAP,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/ApiManagement.EastUS2EUAP-v4.txt,ipv4
 ApiManagement.EastUS2EUAP,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/ApiManagement.EastUS2EUAP-v6.txt,ipv6
+ApiManagement.EastUS3,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/ApiManagement.EastUS3.txt,all
+ApiManagement.EastUS3,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/ApiManagement.EastUS3-v4.txt,ipv4
+ApiManagement.EastUS3,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/ApiManagement.EastUS3-v6.txt,ipv6
 ApiManagement.EastUSSTG,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/ApiManagement.EastUSSTG.txt,all
 ApiManagement.EastUSSTG,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/ApiManagement.EastUSSTG-v4.txt,ipv4
 ApiManagement.EastUSSTG,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/ApiManagement.EastUSSTG-v6.txt,ipv6
@@ -481,6 +487,9 @@ AppService.EastUS2,https://raw.githubusercontent.com/netaryx/palo-alto-azure-ser
 AppService.EastUS2EUAP,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/AppService.EastUS2EUAP.txt,all
 AppService.EastUS2EUAP,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/AppService.EastUS2EUAP-v4.txt,ipv4
 AppService.EastUS2EUAP,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/AppService.EastUS2EUAP-v6.txt,ipv6
+AppService.EastUS3,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/AppService.EastUS3.txt,all
+AppService.EastUS3,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/AppService.EastUS3-v4.txt,ipv4
+AppService.EastUS3,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/AppService.EastUS3-v6.txt,ipv6
 AppService.EastUSSTG,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/AppService.EastUSSTG.txt,all
 AppService.EastUSSTG,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/AppService.EastUSSTG-v4.txt,ipv4
 AppService.EastUSSTG,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/AppService.EastUSSTG-v6.txt,ipv6
@@ -691,6 +700,9 @@ AppServiceManagement.EastUS2,https://raw.githubusercontent.com/netaryx/palo-alto
 AppServiceManagement.EastUS2EUAP,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/AppServiceManagement.EastUS2EUAP.txt,all
 AppServiceManagement.EastUS2EUAP,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/AppServiceManagement.EastUS2EUAP-v4.txt,ipv4
 AppServiceManagement.EastUS2EUAP,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/AppServiceManagement.EastUS2EUAP-v6.txt,ipv6
+AppServiceManagement.EastUS3,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/AppServiceManagement.EastUS3.txt,all
+AppServiceManagement.EastUS3,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/AppServiceManagement.EastUS3-v4.txt,ipv4
+AppServiceManagement.EastUS3,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/AppServiceManagement.EastUS3-v6.txt,ipv6
 AppServiceManagement.EastUSSTG,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/AppServiceManagement.EastUSSTG.txt,all
 AppServiceManagement.EastUSSTG,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/AppServiceManagement.EastUSSTG-v4.txt,ipv4
 AppServiceManagement.EastUSSTG,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/AppServiceManagement.EastUSSTG-v6.txt,ipv6
@@ -916,6 +928,9 @@ AzureArcInfrastructure.EastUS2,https://raw.githubusercontent.com/netaryx/palo-al
 AzureArcInfrastructure.EastUS2EUAP,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/AzureArcInfrastructure.EastUS2EUAP.txt,all
 AzureArcInfrastructure.EastUS2EUAP,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/AzureArcInfrastructure.EastUS2EUAP-v4.txt,ipv4
 AzureArcInfrastructure.EastUS2EUAP,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/AzureArcInfrastructure.EastUS2EUAP-v6.txt,ipv6
+AzureArcInfrastructure.EastUS3,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/AzureArcInfrastructure.EastUS3.txt,all
+AzureArcInfrastructure.EastUS3,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/AzureArcInfrastructure.EastUS3-v4.txt,ipv4
+AzureArcInfrastructure.EastUS3,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/AzureArcInfrastructure.EastUS3-v6.txt,ipv6
 AzureArcInfrastructure.EastUSSTG,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/AzureArcInfrastructure.EastUSSTG.txt,all
 AzureArcInfrastructure.EastUSSTG,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/AzureArcInfrastructure.EastUSSTG-v4.txt,ipv4
 AzureArcInfrastructure.EastUSSTG,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/AzureArcInfrastructure.EastUSSTG-v6.txt,ipv6
@@ -1126,6 +1141,9 @@ AzureAttestation.EastUS2,https://raw.githubusercontent.com/netaryx/palo-alto-azu
 AzureAttestation.EastUS2EUAP,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/AzureAttestation.EastUS2EUAP.txt,all
 AzureAttestation.EastUS2EUAP,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/AzureAttestation.EastUS2EUAP-v4.txt,ipv4
 AzureAttestation.EastUS2EUAP,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/AzureAttestation.EastUS2EUAP-v6.txt,ipv6
+AzureAttestation.EastUS3,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/AzureAttestation.EastUS3.txt,all
+AzureAttestation.EastUS3,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/AzureAttestation.EastUS3-v4.txt,ipv4
+AzureAttestation.EastUS3,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/AzureAttestation.EastUS3-v6.txt,ipv6
 AzureAttestation.EastUSSTG,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/AzureAttestation.EastUSSTG.txt,all
 AzureAttestation.EastUSSTG,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/AzureAttestation.EastUSSTG-v4.txt,ipv4
 AzureAttestation.EastUSSTG,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/AzureAttestation.EastUSSTG-v6.txt,ipv6
@@ -1336,6 +1354,9 @@ AzureBackup.EastUS2,https://raw.githubusercontent.com/netaryx/palo-alto-azure-se
 AzureBackup.EastUS2EUAP,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/AzureBackup.EastUS2EUAP.txt,all
 AzureBackup.EastUS2EUAP,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/AzureBackup.EastUS2EUAP-v4.txt,ipv4
 AzureBackup.EastUS2EUAP,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/AzureBackup.EastUS2EUAP-v6.txt,ipv6
+AzureBackup.EastUS3,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/AzureBackup.EastUS3.txt,all
+AzureBackup.EastUS3,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/AzureBackup.EastUS3-v4.txt,ipv4
+AzureBackup.EastUS3,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/AzureBackup.EastUS3-v6.txt,ipv6
 AzureBackup.EastUSSTG,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/AzureBackup.EastUSSTG.txt,all
 AzureBackup.EastUSSTG,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/AzureBackup.EastUSSTG-v4.txt,ipv4
 AzureBackup.EastUSSTG,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/AzureBackup.EastUSSTG-v6.txt,ipv6
@@ -1546,6 +1567,9 @@ AzureBotService.EastUS2,https://raw.githubusercontent.com/netaryx/palo-alto-azur
 AzureBotService.EastUS2EUAP,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/AzureBotService.EastUS2EUAP.txt,all
 AzureBotService.EastUS2EUAP,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/AzureBotService.EastUS2EUAP-v4.txt,ipv4
 AzureBotService.EastUS2EUAP,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/AzureBotService.EastUS2EUAP-v6.txt,ipv6
+AzureBotService.EastUS3,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/AzureBotService.EastUS3.txt,all
+AzureBotService.EastUS3,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/AzureBotService.EastUS3-v4.txt,ipv4
+AzureBotService.EastUS3,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/AzureBotService.EastUS3-v6.txt,ipv6
 AzureBotService.EastUSSTG,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/AzureBotService.EastUSSTG.txt,all
 AzureBotService.EastUSSTG,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/AzureBotService.EastUSSTG-v4.txt,ipv4
 AzureBotService.EastUSSTG,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/AzureBotService.EastUSSTG-v6.txt,ipv6
@@ -1762,6 +1786,9 @@ AzureCloud.eastus2,https://raw.githubusercontent.com/netaryx/palo-alto-azure-ser
 AzureCloud.eastus2euap,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/AzureCloud.eastus2euap.txt,all
 AzureCloud.eastus2euap,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/AzureCloud.eastus2euap-v4.txt,ipv4
 AzureCloud.eastus2euap,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/AzureCloud.eastus2euap-v6.txt,ipv6
+AzureCloud.eastus3,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/AzureCloud.eastus3.txt,all
+AzureCloud.eastus3,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/AzureCloud.eastus3-v4.txt,ipv4
+AzureCloud.eastus3,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/AzureCloud.eastus3-v6.txt,ipv6
 AzureCloud.germanyn,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/AzureCloud.germanyn.txt,all
 AzureCloud.germanyn,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/AzureCloud.germanyn-v4.txt,ipv4
 AzureCloud.germanyn,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/AzureCloud.germanyn-v6.txt,ipv6
@@ -1972,6 +1999,9 @@ AzureCognitiveSearch.EastUS2,https://raw.githubusercontent.com/netaryx/palo-alto
 AzureCognitiveSearch.EastUS2EUAP,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/AzureCognitiveSearch.EastUS2EUAP.txt,all
 AzureCognitiveSearch.EastUS2EUAP,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/AzureCognitiveSearch.EastUS2EUAP-v4.txt,ipv4
 AzureCognitiveSearch.EastUS2EUAP,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/AzureCognitiveSearch.EastUS2EUAP-v6.txt,ipv6
+AzureCognitiveSearch.EastUS3,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/AzureCognitiveSearch.EastUS3.txt,all
+AzureCognitiveSearch.EastUS3,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/AzureCognitiveSearch.EastUS3-v4.txt,ipv4
+AzureCognitiveSearch.EastUS3,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/AzureCognitiveSearch.EastUS3-v6.txt,ipv6
 AzureCognitiveSearch.EastUSSTG,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/AzureCognitiveSearch.EastUSSTG.txt,all
 AzureCognitiveSearch.EastUSSTG,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/AzureCognitiveSearch.EastUSSTG-v4.txt,ipv4
 AzureCognitiveSearch.EastUSSTG,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/AzureCognitiveSearch.EastUSSTG-v6.txt,ipv6
@@ -2182,6 +2212,9 @@ AzureConnectors.EastUS2,https://raw.githubusercontent.com/netaryx/palo-alto-azur
 AzureConnectors.EastUS2EUAP,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/AzureConnectors.EastUS2EUAP.txt,all
 AzureConnectors.EastUS2EUAP,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/AzureConnectors.EastUS2EUAP-v4.txt,ipv4
 AzureConnectors.EastUS2EUAP,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/AzureConnectors.EastUS2EUAP-v6.txt,ipv6
+AzureConnectors.EastUS3,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/AzureConnectors.EastUS3.txt,all
+AzureConnectors.EastUS3,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/AzureConnectors.EastUS3-v4.txt,ipv4
+AzureConnectors.EastUS3,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/AzureConnectors.EastUS3-v6.txt,ipv6
 AzureConnectors.EastUSSTG,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/AzureConnectors.EastUSSTG.txt,all
 AzureConnectors.EastUSSTG,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/AzureConnectors.EastUSSTG-v4.txt,ipv4
 AzureConnectors.EastUSSTG,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/AzureConnectors.EastUSSTG-v6.txt,ipv6
@@ -2392,6 +2425,9 @@ AzureContainerRegistry.EastUS2,https://raw.githubusercontent.com/netaryx/palo-al
 AzureContainerRegistry.EastUS2EUAP,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/AzureContainerRegistry.EastUS2EUAP.txt,all
 AzureContainerRegistry.EastUS2EUAP,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/AzureContainerRegistry.EastUS2EUAP-v4.txt,ipv4
 AzureContainerRegistry.EastUS2EUAP,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/AzureContainerRegistry.EastUS2EUAP-v6.txt,ipv6
+AzureContainerRegistry.EastUS3,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/AzureContainerRegistry.EastUS3.txt,all
+AzureContainerRegistry.EastUS3,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/AzureContainerRegistry.EastUS3-v4.txt,ipv4
+AzureContainerRegistry.EastUS3,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/AzureContainerRegistry.EastUS3-v6.txt,ipv6
 AzureContainerRegistry.EastUSSTG,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/AzureContainerRegistry.EastUSSTG.txt,all
 AzureContainerRegistry.EastUSSTG,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/AzureContainerRegistry.EastUSSTG-v4.txt,ipv4
 AzureContainerRegistry.EastUSSTG,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/AzureContainerRegistry.EastUSSTG-v6.txt,ipv6
@@ -2602,6 +2638,9 @@ AzureCosmosDB.EastUS2,https://raw.githubusercontent.com/netaryx/palo-alto-azure-
 AzureCosmosDB.EastUS2EUAP,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/AzureCosmosDB.EastUS2EUAP.txt,all
 AzureCosmosDB.EastUS2EUAP,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/AzureCosmosDB.EastUS2EUAP-v4.txt,ipv4
 AzureCosmosDB.EastUS2EUAP,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/AzureCosmosDB.EastUS2EUAP-v6.txt,ipv6
+AzureCosmosDB.EastUS3,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/AzureCosmosDB.EastUS3.txt,all
+AzureCosmosDB.EastUS3,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/AzureCosmosDB.EastUS3-v4.txt,ipv4
+AzureCosmosDB.EastUS3,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/AzureCosmosDB.EastUS3-v6.txt,ipv6
 AzureCosmosDB.EastUSSTG,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/AzureCosmosDB.EastUSSTG.txt,all
 AzureCosmosDB.EastUSSTG,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/AzureCosmosDB.EastUSSTG-v4.txt,ipv4
 AzureCosmosDB.EastUSSTG,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/AzureCosmosDB.EastUSSTG-v6.txt,ipv6
@@ -2815,6 +2854,9 @@ AzureDataExplorerManagement.EastUS2,https://raw.githubusercontent.com/netaryx/pa
 AzureDataExplorerManagement.EastUS2EUAP,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/AzureDataExplorerManagement.EastUS2EUAP.txt,all
 AzureDataExplorerManagement.EastUS2EUAP,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/AzureDataExplorerManagement.EastUS2EUAP-v4.txt,ipv4
 AzureDataExplorerManagement.EastUS2EUAP,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/AzureDataExplorerManagement.EastUS2EUAP-v6.txt,ipv6
+AzureDataExplorerManagement.EastUS3,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/AzureDataExplorerManagement.EastUS3.txt,all
+AzureDataExplorerManagement.EastUS3,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/AzureDataExplorerManagement.EastUS3-v4.txt,ipv4
+AzureDataExplorerManagement.EastUS3,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/AzureDataExplorerManagement.EastUS3-v6.txt,ipv6
 AzureDataExplorerManagement.EastUSSTG,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/AzureDataExplorerManagement.EastUSSTG.txt,all
 AzureDataExplorerManagement.EastUSSTG,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/AzureDataExplorerManagement.EastUSSTG-v4.txt,ipv4
 AzureDataExplorerManagement.EastUSSTG,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/AzureDataExplorerManagement.EastUSSTG-v6.txt,ipv6
@@ -3178,6 +3220,9 @@ AzureDigitalTwins.EastUS2,https://raw.githubusercontent.com/netaryx/palo-alto-az
 AzureDigitalTwins.EastUS2EUAP,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/AzureDigitalTwins.EastUS2EUAP.txt,all
 AzureDigitalTwins.EastUS2EUAP,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/AzureDigitalTwins.EastUS2EUAP-v4.txt,ipv4
 AzureDigitalTwins.EastUS2EUAP,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/AzureDigitalTwins.EastUS2EUAP-v6.txt,ipv6
+AzureDigitalTwins.EastUS3,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/AzureDigitalTwins.EastUS3.txt,all
+AzureDigitalTwins.EastUS3,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/AzureDigitalTwins.EastUS3-v4.txt,ipv4
+AzureDigitalTwins.EastUS3,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/AzureDigitalTwins.EastUS3-v6.txt,ipv6
 AzureDigitalTwins.EastUSSTG,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/AzureDigitalTwins.EastUSSTG.txt,all
 AzureDigitalTwins.EastUSSTG,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/AzureDigitalTwins.EastUSSTG-v4.txt,ipv4
 AzureDigitalTwins.EastUSSTG,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/AzureDigitalTwins.EastUSSTG-v6.txt,ipv6
@@ -3388,6 +3433,9 @@ AzureEventGrid.EastUS2,https://raw.githubusercontent.com/netaryx/palo-alto-azure
 AzureEventGrid.EastUS2EUAP,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/AzureEventGrid.EastUS2EUAP.txt,all
 AzureEventGrid.EastUS2EUAP,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/AzureEventGrid.EastUS2EUAP-v4.txt,ipv4
 AzureEventGrid.EastUS2EUAP,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/AzureEventGrid.EastUS2EUAP-v6.txt,ipv6
+AzureEventGrid.EastUS3,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/AzureEventGrid.EastUS3.txt,all
+AzureEventGrid.EastUS3,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/AzureEventGrid.EastUS3-v4.txt,ipv4
+AzureEventGrid.EastUS3,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/AzureEventGrid.EastUS3-v6.txt,ipv6
 AzureEventGrid.EastUSSTG,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/AzureEventGrid.EastUSSTG.txt,all
 AzureEventGrid.EastUSSTG,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/AzureEventGrid.EastUSSTG-v4.txt,ipv4
 AzureEventGrid.EastUSSTG,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/AzureEventGrid.EastUSSTG-v6.txt,ipv6
@@ -3808,6 +3856,9 @@ AzureKeyVault.EastUS2,https://raw.githubusercontent.com/netaryx/palo-alto-azure-
 AzureKeyVault.EastUS2EUAP,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/AzureKeyVault.EastUS2EUAP.txt,all
 AzureKeyVault.EastUS2EUAP,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/AzureKeyVault.EastUS2EUAP-v4.txt,ipv4
 AzureKeyVault.EastUS2EUAP,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/AzureKeyVault.EastUS2EUAP-v6.txt,ipv6
+AzureKeyVault.EastUS3,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/AzureKeyVault.EastUS3.txt,all
+AzureKeyVault.EastUS3,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/AzureKeyVault.EastUS3-v4.txt,ipv4
+AzureKeyVault.EastUS3,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/AzureKeyVault.EastUS3-v6.txt,ipv6
 AzureKeyVault.EastUSSTG,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/AzureKeyVault.EastUSSTG.txt,all
 AzureKeyVault.EastUSSTG,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/AzureKeyVault.EastUSSTG-v4.txt,ipv4
 AzureKeyVault.EastUSSTG,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/AzureKeyVault.EastUSSTG-v6.txt,ipv6
@@ -4021,6 +4072,9 @@ AzureMachineLearning.EastUS2,https://raw.githubusercontent.com/netaryx/palo-alto
 AzureMachineLearning.EastUS2EUAP,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/AzureMachineLearning.EastUS2EUAP.txt,all
 AzureMachineLearning.EastUS2EUAP,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/AzureMachineLearning.EastUS2EUAP-v4.txt,ipv4
 AzureMachineLearning.EastUS2EUAP,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/AzureMachineLearning.EastUS2EUAP-v6.txt,ipv6
+AzureMachineLearning.EastUS3,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/AzureMachineLearning.EastUS3.txt,all
+AzureMachineLearning.EastUS3,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/AzureMachineLearning.EastUS3-v4.txt,ipv4
+AzureMachineLearning.EastUS3,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/AzureMachineLearning.EastUS3-v6.txt,ipv6
 AzureMachineLearning.EastUSSTG,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/AzureMachineLearning.EastUSSTG.txt,all
 AzureMachineLearning.EastUSSTG,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/AzureMachineLearning.EastUSSTG-v4.txt,ipv4
 AzureMachineLearning.EastUSSTG,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/AzureMachineLearning.EastUSSTG-v6.txt,ipv6
@@ -4240,6 +4294,9 @@ AzureMonitor.EastUS2,https://raw.githubusercontent.com/netaryx/palo-alto-azure-s
 AzureMonitor.EastUS2EUAP,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/AzureMonitor.EastUS2EUAP.txt,all
 AzureMonitor.EastUS2EUAP,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/AzureMonitor.EastUS2EUAP-v4.txt,ipv4
 AzureMonitor.EastUS2EUAP,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/AzureMonitor.EastUS2EUAP-v6.txt,ipv6
+AzureMonitor.EastUS3,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/AzureMonitor.EastUS3.txt,all
+AzureMonitor.EastUS3,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/AzureMonitor.EastUS3-v4.txt,ipv4
+AzureMonitor.EastUS3,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/AzureMonitor.EastUS3-v6.txt,ipv6
 AzureMonitor.EastUSSTG,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/AzureMonitor.EastUSSTG.txt,all
 AzureMonitor.EastUSSTG,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/AzureMonitor.EastUSSTG-v4.txt,ipv4
 AzureMonitor.EastUSSTG,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/AzureMonitor.EastUSSTG-v6.txt,ipv6
@@ -4600,6 +4657,9 @@ AzurePortal.EastUS2,https://raw.githubusercontent.com/netaryx/palo-alto-azure-se
 AzurePortal.EastUS2EUAP,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/AzurePortal.EastUS2EUAP.txt,all
 AzurePortal.EastUS2EUAP,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/AzurePortal.EastUS2EUAP-v4.txt,ipv4
 AzurePortal.EastUS2EUAP,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/AzurePortal.EastUS2EUAP-v6.txt,ipv6
+AzurePortal.EastUS3,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/AzurePortal.EastUS3.txt,all
+AzurePortal.EastUS3,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/AzurePortal.EastUS3-v4.txt,ipv4
+AzurePortal.EastUS3,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/AzurePortal.EastUS3-v6.txt,ipv6
 AzurePortal.EastUSSTG,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/AzurePortal.EastUSSTG.txt,all
 AzurePortal.EastUSSTG,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/AzurePortal.EastUSSTG-v4.txt,ipv4
 AzurePortal.EastUSSTG,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/AzurePortal.EastUSSTG-v6.txt,ipv6
@@ -4810,6 +4870,9 @@ AzureResourceManager.EastUS2,https://raw.githubusercontent.com/netaryx/palo-alto
 AzureResourceManager.EastUS2EUAP,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/AzureResourceManager.EastUS2EUAP.txt,all
 AzureResourceManager.EastUS2EUAP,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/AzureResourceManager.EastUS2EUAP-v4.txt,ipv4
 AzureResourceManager.EastUS2EUAP,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/AzureResourceManager.EastUS2EUAP-v6.txt,ipv6
+AzureResourceManager.EastUS3,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/AzureResourceManager.EastUS3.txt,all
+AzureResourceManager.EastUS3,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/AzureResourceManager.EastUS3-v4.txt,ipv4
+AzureResourceManager.EastUS3,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/AzureResourceManager.EastUS3-v6.txt,ipv6
 AzureResourceManager.EastUSSTG,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/AzureResourceManager.EastUSSTG.txt,all
 AzureResourceManager.EastUSSTG,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/AzureResourceManager.EastUSSTG-v4.txt,ipv4
 AzureResourceManager.EastUSSTG,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/AzureResourceManager.EastUSSTG-v6.txt,ipv6
@@ -5446,6 +5509,9 @@ BatchNodeManagement.EastUS2,https://raw.githubusercontent.com/netaryx/palo-alto-
 BatchNodeManagement.EastUS2EUAP,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/BatchNodeManagement.EastUS2EUAP.txt,all
 BatchNodeManagement.EastUS2EUAP,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/BatchNodeManagement.EastUS2EUAP-v4.txt,ipv4
 BatchNodeManagement.EastUS2EUAP,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/BatchNodeManagement.EastUS2EUAP-v6.txt,ipv6
+BatchNodeManagement.EastUS3,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/BatchNodeManagement.EastUS3.txt,all
+BatchNodeManagement.EastUS3,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/BatchNodeManagement.EastUS3-v4.txt,ipv4
+BatchNodeManagement.EastUS3,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/BatchNodeManagement.EastUS3-v6.txt,ipv6
 BatchNodeManagement.EastUSSTG,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/BatchNodeManagement.EastUSSTG.txt,all
 BatchNodeManagement.EastUSSTG,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/BatchNodeManagement.EastUSSTG-v4.txt,ipv4
 BatchNodeManagement.EastUSSTG,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/BatchNodeManagement.EastUSSTG-v6.txt,ipv6
@@ -5668,6 +5734,9 @@ DataFactory.EastUS2,https://raw.githubusercontent.com/netaryx/palo-alto-azure-se
 DataFactory.EastUS2EUAP,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/DataFactory.EastUS2EUAP.txt,all
 DataFactory.EastUS2EUAP,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/DataFactory.EastUS2EUAP-v4.txt,ipv4
 DataFactory.EastUS2EUAP,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/DataFactory.EastUS2EUAP-v6.txt,ipv6
+DataFactory.EastUS3,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/DataFactory.EastUS3.txt,all
+DataFactory.EastUS3,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/DataFactory.EastUS3-v4.txt,ipv4
+DataFactory.EastUS3,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/DataFactory.EastUS3-v6.txt,ipv6
 DataFactory.EastUSSTG,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/DataFactory.EastUSSTG.txt,all
 DataFactory.EastUSSTG,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/DataFactory.EastUSSTG-v4.txt,ipv4
 DataFactory.EastUSSTG,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/DataFactory.EastUSSTG-v6.txt,ipv6
@@ -5929,6 +5998,9 @@ EventHub.EastUS2,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servi
 EventHub.EastUS2EUAP,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/EventHub.EastUS2EUAP.txt,all
 EventHub.EastUS2EUAP,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/EventHub.EastUS2EUAP-v4.txt,ipv4
 EventHub.EastUS2EUAP,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/EventHub.EastUS2EUAP-v6.txt,ipv6
+EventHub.EastUS3,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/EventHub.EastUS3.txt,all
+EventHub.EastUS3,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/EventHub.EastUS3-v4.txt,ipv4
+EventHub.EastUS3,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/EventHub.EastUS3-v6.txt,ipv6
 EventHub.EastUSSTG,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/EventHub.EastUSSTG.txt,all
 EventHub.EastUSSTG,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/EventHub.EastUSSTG-v4.txt,ipv4
 EventHub.EastUSSTG,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/EventHub.EastUSSTG-v6.txt,ipv6
@@ -6139,6 +6211,9 @@ GatewayManager.EastUS2,https://raw.githubusercontent.com/netaryx/palo-alto-azure
 GatewayManager.EastUS2EUAP,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/GatewayManager.EastUS2EUAP.txt,all
 GatewayManager.EastUS2EUAP,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/GatewayManager.EastUS2EUAP-v4.txt,ipv4
 GatewayManager.EastUS2EUAP,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/GatewayManager.EastUS2EUAP-v6.txt,ipv6
+GatewayManager.EastUS3,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/GatewayManager.EastUS3.txt,all
+GatewayManager.EastUS3,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/GatewayManager.EastUS3-v4.txt,ipv4
+GatewayManager.EastUS3,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/GatewayManager.EastUS3-v6.txt,ipv6
 GatewayManager.EastUSSTG,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/GatewayManager.EastUSSTG.txt,all
 GatewayManager.EastUSSTG,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/GatewayManager.EastUSSTG-v4.txt,ipv4
 GatewayManager.EastUSSTG,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/GatewayManager.EastUSSTG-v6.txt,ipv6
@@ -6355,6 +6430,9 @@ HDInsight.EastUS2,https://raw.githubusercontent.com/netaryx/palo-alto-azure-serv
 HDInsight.EastUS2EUAP,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/HDInsight.EastUS2EUAP.txt,all
 HDInsight.EastUS2EUAP,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/HDInsight.EastUS2EUAP-v4.txt,ipv4
 HDInsight.EastUS2EUAP,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/HDInsight.EastUS2EUAP-v6.txt,ipv6
+HDInsight.EastUS3,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/HDInsight.EastUS3.txt,all
+HDInsight.EastUS3,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/HDInsight.EastUS3-v4.txt,ipv4
+HDInsight.EastUS3,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/HDInsight.EastUS3-v6.txt,ipv6
 HDInsight.EastUSSTG,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/HDInsight.EastUSSTG.txt,all
 HDInsight.EastUSSTG,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/HDInsight.EastUSSTG-v4.txt,ipv4
 HDInsight.EastUSSTG,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/HDInsight.EastUSSTG-v6.txt,ipv6
@@ -6568,6 +6646,9 @@ LogicApps.EastUS2,https://raw.githubusercontent.com/netaryx/palo-alto-azure-serv
 LogicApps.EastUS2EUAP,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/LogicApps.EastUS2EUAP.txt,all
 LogicApps.EastUS2EUAP,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/LogicApps.EastUS2EUAP-v4.txt,ipv4
 LogicApps.EastUS2EUAP,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/LogicApps.EastUS2EUAP-v6.txt,ipv6
+LogicApps.EastUS3,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/LogicApps.EastUS3.txt,all
+LogicApps.EastUS3,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/LogicApps.EastUS3-v4.txt,ipv4
+LogicApps.EastUS3,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/LogicApps.EastUS3-v6.txt,ipv6
 LogicApps.EastUSSTG,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/LogicApps.EastUSSTG.txt,all
 LogicApps.EastUSSTG,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/LogicApps.EastUSSTG-v4.txt,ipv4
 LogicApps.EastUSSTG,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/LogicApps.EastUSSTG-v6.txt,ipv6
@@ -6877,6 +6958,9 @@ MicrosoftContainerRegistry.EastUS2,https://raw.githubusercontent.com/netaryx/pal
 MicrosoftContainerRegistry.EastUS2EUAP,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/MicrosoftContainerRegistry.EastUS2EUAP.txt,all
 MicrosoftContainerRegistry.EastUS2EUAP,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/MicrosoftContainerRegistry.EastUS2EUAP-v4.txt,ipv4
 MicrosoftContainerRegistry.EastUS2EUAP,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/MicrosoftContainerRegistry.EastUS2EUAP-v6.txt,ipv6
+MicrosoftContainerRegistry.EastUS3,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/MicrosoftContainerRegistry.EastUS3.txt,all
+MicrosoftContainerRegistry.EastUS3,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/MicrosoftContainerRegistry.EastUS3-v4.txt,ipv4
+MicrosoftContainerRegistry.EastUS3,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/MicrosoftContainerRegistry.EastUS3-v6.txt,ipv6
 MicrosoftContainerRegistry.EastUSSTG,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/MicrosoftContainerRegistry.EastUSSTG.txt,all
 MicrosoftContainerRegistry.EastUSSTG,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/MicrosoftContainerRegistry.EastUSSTG-v4.txt,ipv4
 MicrosoftContainerRegistry.EastUSSTG,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/MicrosoftContainerRegistry.EastUSSTG-v6.txt,ipv6
@@ -7096,6 +7180,9 @@ PowerBI.EastUS2,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servic
 PowerBI.EastUS2EUAP,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/PowerBI.EastUS2EUAP.txt,all
 PowerBI.EastUS2EUAP,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/PowerBI.EastUS2EUAP-v4.txt,ipv4
 PowerBI.EastUS2EUAP,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/PowerBI.EastUS2EUAP-v6.txt,ipv6
+PowerBI.EastUS3,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/PowerBI.EastUS3.txt,all
+PowerBI.EastUS3,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/PowerBI.EastUS3-v4.txt,ipv4
+PowerBI.EastUS3,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/PowerBI.EastUS3-v6.txt,ipv6
 PowerBI.EastUSSTG,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/PowerBI.EastUSSTG.txt,all
 PowerBI.EastUSSTG,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/PowerBI.EastUSSTG-v4.txt,ipv4
 PowerBI.EastUSSTG,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/PowerBI.EastUSSTG-v6.txt,ipv6
@@ -7573,6 +7660,9 @@ PowerQueryOnline.EastUS2,https://raw.githubusercontent.com/netaryx/palo-alto-azu
 PowerQueryOnline.EastUS2EUAP,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/PowerQueryOnline.EastUS2EUAP.txt,all
 PowerQueryOnline.EastUS2EUAP,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/PowerQueryOnline.EastUS2EUAP-v4.txt,ipv4
 PowerQueryOnline.EastUS2EUAP,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/PowerQueryOnline.EastUS2EUAP-v6.txt,ipv6
+PowerQueryOnline.EastUS3,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/PowerQueryOnline.EastUS3.txt,all
+PowerQueryOnline.EastUS3,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/PowerQueryOnline.EastUS3-v4.txt,ipv4
+PowerQueryOnline.EastUS3,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/PowerQueryOnline.EastUS3-v6.txt,ipv6
 PowerQueryOnline.EastUSSTG,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/PowerQueryOnline.EastUSSTG.txt,all
 PowerQueryOnline.EastUSSTG,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/PowerQueryOnline.EastUSSTG-v4.txt,ipv4
 PowerQueryOnline.EastUSSTG,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/PowerQueryOnline.EastUSSTG-v6.txt,ipv6
@@ -7945,6 +8035,9 @@ ServiceBus.EastUS2,https://raw.githubusercontent.com/netaryx/palo-alto-azure-ser
 ServiceBus.EastUS2EUAP,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/ServiceBus.EastUS2EUAP.txt,all
 ServiceBus.EastUS2EUAP,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/ServiceBus.EastUS2EUAP-v4.txt,ipv4
 ServiceBus.EastUS2EUAP,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/ServiceBus.EastUS2EUAP-v6.txt,ipv6
+ServiceBus.EastUS3,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/ServiceBus.EastUS3.txt,all
+ServiceBus.EastUS3,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/ServiceBus.EastUS3-v4.txt,ipv4
+ServiceBus.EastUS3,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/ServiceBus.EastUS3-v6.txt,ipv6
 ServiceBus.EastUSSTG,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/ServiceBus.EastUSSTG.txt,all
 ServiceBus.EastUSSTG,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/ServiceBus.EastUSSTG-v4.txt,ipv4
 ServiceBus.EastUSSTG,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/ServiceBus.EastUSSTG-v6.txt,ipv6
@@ -8155,6 +8248,9 @@ ServiceFabric.EastUS2,https://raw.githubusercontent.com/netaryx/palo-alto-azure-
 ServiceFabric.EastUS2EUAP,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/ServiceFabric.EastUS2EUAP.txt,all
 ServiceFabric.EastUS2EUAP,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/ServiceFabric.EastUS2EUAP-v4.txt,ipv4
 ServiceFabric.EastUS2EUAP,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/ServiceFabric.EastUS2EUAP-v6.txt,ipv6
+ServiceFabric.EastUS3,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/ServiceFabric.EastUS3.txt,all
+ServiceFabric.EastUS3,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/ServiceFabric.EastUS3-v4.txt,ipv4
+ServiceFabric.EastUS3,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/ServiceFabric.EastUS3-v6.txt,ipv6
 ServiceFabric.EastUSSTG,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/ServiceFabric.EastUSSTG.txt,all
 ServiceFabric.EastUSSTG,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/ServiceFabric.EastUSSTG-v4.txt,ipv4
 ServiceFabric.EastUSSTG,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/ServiceFabric.EastUSSTG-v6.txt,ipv6
@@ -8368,6 +8464,9 @@ Sql.EastUS2EUAP,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servic
 Sql.EastUS2Stage,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/Sql.EastUS2Stage.txt,all
 Sql.EastUS2Stage,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/Sql.EastUS2Stage-v4.txt,ipv4
 Sql.EastUS2Stage,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/Sql.EastUS2Stage-v6.txt,ipv6
+Sql.EastUS3,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/Sql.EastUS3.txt,all
+Sql.EastUS3,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/Sql.EastUS3-v4.txt,ipv4
+Sql.EastUS3,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/Sql.EastUS3-v6.txt,ipv6
 Sql.EastUSSTG,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/Sql.EastUSSTG.txt,all
 Sql.EastUSSTG,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/Sql.EastUSSTG-v4.txt,ipv4
 Sql.EastUSSTG,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/Sql.EastUSSTG-v6.txt,ipv6
@@ -8587,6 +8686,9 @@ Storage.EastUS2EUAP,https://raw.githubusercontent.com/netaryx/palo-alto-azure-se
 Storage.EastUS2Stage,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/Storage.EastUS2Stage.txt,all
 Storage.EastUS2Stage,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/Storage.EastUS2Stage-v4.txt,ipv4
 Storage.EastUS2Stage,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/Storage.EastUS2Stage-v6.txt,ipv6
+Storage.EastUS3,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/Storage.EastUS3.txt,all
+Storage.EastUS3,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/Storage.EastUS3-v4.txt,ipv4
+Storage.EastUS3,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/Storage.EastUS3-v6.txt,ipv6
 Storage.EastUSSTG,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/Storage.EastUSSTG.txt,all
 Storage.EastUSSTG,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/Storage.EastUSSTG-v4.txt,ipv4
 Storage.EastUSSTG,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/Storage.EastUSSTG-v6.txt,ipv6
@@ -8803,6 +8905,9 @@ StorageSyncService.EastUS2,https://raw.githubusercontent.com/netaryx/palo-alto-a
 StorageSyncService.EastUS2EUAP,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/StorageSyncService.EastUS2EUAP.txt,all
 StorageSyncService.EastUS2EUAP,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/StorageSyncService.EastUS2EUAP-v4.txt,ipv4
 StorageSyncService.EastUS2EUAP,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/StorageSyncService.EastUS2EUAP-v6.txt,ipv6
+StorageSyncService.EastUS3,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/StorageSyncService.EastUS3.txt,all
+StorageSyncService.EastUS3,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/StorageSyncService.EastUS3-v4.txt,ipv4
+StorageSyncService.EastUS3,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/StorageSyncService.EastUS3-v6.txt,ipv6
 StorageSyncService.EastUSSTG,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/StorageSyncService.EastUSSTG.txt,all
 StorageSyncService.EastUSSTG,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/StorageSyncService.EastUSSTG-v4.txt,ipv4
 StorageSyncService.EastUSSTG,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/StorageSyncService.EastUSSTG-v6.txt,ipv6
