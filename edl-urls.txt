@@ -43,6 +43,9 @@ ActionGroup.CentralUSEUAP,https://raw.githubusercontent.com/netaryx/palo-alto-az
 ActionGroup.ChileCentral,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/ActionGroup.ChileCentral.txt,all
 ActionGroup.ChileCentral,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/ActionGroup.ChileCentral-v4.txt,ipv4
 ActionGroup.ChileCentral,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/ActionGroup.ChileCentral-v6.txt,ipv6
+ActionGroup.DenmarkEast,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/ActionGroup.DenmarkEast.txt,all
+ActionGroup.DenmarkEast,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/ActionGroup.DenmarkEast-v4.txt,ipv4
+ActionGroup.DenmarkEast,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/ActionGroup.DenmarkEast-v6.txt,ipv6
 ActionGroup.EastAsia,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/ActionGroup.EastAsia.txt,all
 ActionGroup.EastAsia,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/ActionGroup.EastAsia-v4.txt,ipv4
 ActionGroup.EastAsia,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/ActionGroup.EastAsia-v6.txt,ipv6
@@ -256,6 +259,9 @@ ApiManagement.CentralUSEUAP,https://raw.githubusercontent.com/netaryx/palo-alto-
 ApiManagement.ChileCentral,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/ApiManagement.ChileCentral.txt,all
 ApiManagement.ChileCentral,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/ApiManagement.ChileCentral-v4.txt,ipv4
 ApiManagement.ChileCentral,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/ApiManagement.ChileCentral-v6.txt,ipv6
+ApiManagement.DenmarkEast,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/ApiManagement.DenmarkEast.txt,all
+ApiManagement.DenmarkEast,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/ApiManagement.DenmarkEast-v4.txt,ipv4
+ApiManagement.DenmarkEast,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/ApiManagement.DenmarkEast-v6.txt,ipv6
 ApiManagement.EastAsia,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/ApiManagement.EastAsia.txt,all
 ApiManagement.EastAsia,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/ApiManagement.EastAsia-v4.txt,ipv4
 ApiManagement.EastAsia,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/ApiManagement.EastAsia-v6.txt,ipv6
@@ -475,6 +481,9 @@ AppService.CentralUSEUAP,https://raw.githubusercontent.com/netaryx/palo-alto-azu
 AppService.ChileCentral,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/AppService.ChileCentral.txt,all
 AppService.ChileCentral,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/AppService.ChileCentral-v4.txt,ipv4
 AppService.ChileCentral,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/AppService.ChileCentral-v6.txt,ipv6
+AppService.DenmarkEast,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/AppService.DenmarkEast.txt,all
+AppService.DenmarkEast,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/AppService.DenmarkEast-v4.txt,ipv4
+AppService.DenmarkEast,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/AppService.DenmarkEast-v6.txt,ipv6
 AppService.EastAsia,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/AppService.EastAsia.txt,all
 AppService.EastAsia,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/AppService.EastAsia-v4.txt,ipv4
 AppService.EastAsia,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/AppService.EastAsia-v6.txt,ipv6
@@ -688,6 +697,9 @@ AppServiceManagement.CentralUSEUAP,https://raw.githubusercontent.com/netaryx/pal
 AppServiceManagement.ChileCentral,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/AppServiceManagement.ChileCentral.txt,all
 AppServiceManagement.ChileCentral,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/AppServiceManagement.ChileCentral-v4.txt,ipv4
 AppServiceManagement.ChileCentral,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/AppServiceManagement.ChileCentral-v6.txt,ipv6
+AppServiceManagement.DenmarkEast,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/AppServiceManagement.DenmarkEast.txt,all
+AppServiceManagement.DenmarkEast,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/AppServiceManagement.DenmarkEast-v4.txt,ipv4
+AppServiceManagement.DenmarkEast,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/AppServiceManagement.DenmarkEast-v6.txt,ipv6
 AppServiceManagement.EastAsia,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/AppServiceManagement.EastAsia.txt,all
 AppServiceManagement.EastAsia,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/AppServiceManagement.EastAsia-v4.txt,ipv4
 AppServiceManagement.EastAsia,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/AppServiceManagement.EastAsia-v6.txt,ipv6
@@ -916,6 +928,9 @@ AzureArcInfrastructure.CentralUSEUAP,https://raw.githubusercontent.com/netaryx/p
 AzureArcInfrastructure.ChileCentral,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/AzureArcInfrastructure.ChileCentral.txt,all
 AzureArcInfrastructure.ChileCentral,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/AzureArcInfrastructure.ChileCentral-v4.txt,ipv4
 AzureArcInfrastructure.ChileCentral,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/AzureArcInfrastructure.ChileCentral-v6.txt,ipv6
+AzureArcInfrastructure.DenmarkEast,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/AzureArcInfrastructure.DenmarkEast.txt,all
+AzureArcInfrastructure.DenmarkEast,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/AzureArcInfrastructure.DenmarkEast-v4.txt,ipv4
+AzureArcInfrastructure.DenmarkEast,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/AzureArcInfrastructure.DenmarkEast-v6.txt,ipv6
 AzureArcInfrastructure.EastAsia,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/AzureArcInfrastructure.EastAsia.txt,all
 AzureArcInfrastructure.EastAsia,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/AzureArcInfrastructure.EastAsia-v4.txt,ipv4
 AzureArcInfrastructure.EastAsia,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/AzureArcInfrastructure.EastAsia-v6.txt,ipv6
@@ -1129,6 +1144,9 @@ AzureAttestation.CentralUSEUAP,https://raw.githubusercontent.com/netaryx/palo-al
 AzureAttestation.ChileCentral,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/AzureAttestation.ChileCentral.txt,all
 AzureAttestation.ChileCentral,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/AzureAttestation.ChileCentral-v4.txt,ipv4
 AzureAttestation.ChileCentral,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/AzureAttestation.ChileCentral-v6.txt,ipv6
+AzureAttestation.DenmarkEast,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/AzureAttestation.DenmarkEast.txt,all
+AzureAttestation.DenmarkEast,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/AzureAttestation.DenmarkEast-v4.txt,ipv4
+AzureAttestation.DenmarkEast,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/AzureAttestation.DenmarkEast-v6.txt,ipv6
 AzureAttestation.EastAsia,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/AzureAttestation.EastAsia.txt,all
 AzureAttestation.EastAsia,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/AzureAttestation.EastAsia-v4.txt,ipv4
 AzureAttestation.EastAsia,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/AzureAttestation.EastAsia-v6.txt,ipv6
@@ -1342,6 +1360,9 @@ AzureBackup.CentralUSEUAP,https://raw.githubusercontent.com/netaryx/palo-alto-az
 AzureBackup.ChileCentral,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/AzureBackup.ChileCentral.txt,all
 AzureBackup.ChileCentral,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/AzureBackup.ChileCentral-v4.txt,ipv4
 AzureBackup.ChileCentral,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/AzureBackup.ChileCentral-v6.txt,ipv6
+AzureBackup.DenmarkEast,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/AzureBackup.DenmarkEast.txt,all
+AzureBackup.DenmarkEast,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/AzureBackup.DenmarkEast-v4.txt,ipv4
+AzureBackup.DenmarkEast,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/AzureBackup.DenmarkEast-v6.txt,ipv6
 AzureBackup.EastAsia,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/AzureBackup.EastAsia.txt,all
 AzureBackup.EastAsia,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/AzureBackup.EastAsia-v4.txt,ipv4
 AzureBackup.EastAsia,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/AzureBackup.EastAsia-v6.txt,ipv6
@@ -1555,6 +1576,9 @@ AzureBotService.CentralUSEUAP,https://raw.githubusercontent.com/netaryx/palo-alt
 AzureBotService.ChileCentral,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/AzureBotService.ChileCentral.txt,all
 AzureBotService.ChileCentral,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/AzureBotService.ChileCentral-v4.txt,ipv4
 AzureBotService.ChileCentral,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/AzureBotService.ChileCentral-v6.txt,ipv6
+AzureBotService.DenmarkEast,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/AzureBotService.DenmarkEast.txt,all
+AzureBotService.DenmarkEast,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/AzureBotService.DenmarkEast-v4.txt,ipv4
+AzureBotService.DenmarkEast,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/AzureBotService.DenmarkEast-v6.txt,ipv6
 AzureBotService.EastAsia,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/AzureBotService.EastAsia.txt,all
 AzureBotService.EastAsia,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/AzureBotService.EastAsia-v4.txt,ipv4
 AzureBotService.EastAsia,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/AzureBotService.EastAsia-v6.txt,ipv6
@@ -1774,6 +1798,9 @@ AzureCloud.centraluseuap,https://raw.githubusercontent.com/netaryx/palo-alto-azu
 AzureCloud.chilec,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/AzureCloud.chilec.txt,all
 AzureCloud.chilec,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/AzureCloud.chilec-v4.txt,ipv4
 AzureCloud.chilec,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/AzureCloud.chilec-v6.txt,ipv6
+AzureCloud.denmarkeast,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/AzureCloud.denmarkeast.txt,all
+AzureCloud.denmarkeast,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/AzureCloud.denmarkeast-v4.txt,ipv4
+AzureCloud.denmarkeast,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/AzureCloud.denmarkeast-v6.txt,ipv6
 AzureCloud.eastasia,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/AzureCloud.eastasia.txt,all
 AzureCloud.eastasia,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/AzureCloud.eastasia-v4.txt,ipv4
 AzureCloud.eastasia,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/AzureCloud.eastasia-v6.txt,ipv6
@@ -1987,6 +2014,9 @@ AzureCognitiveSearch.CentralUSEUAP,https://raw.githubusercontent.com/netaryx/pal
 AzureCognitiveSearch.ChileCentral,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/AzureCognitiveSearch.ChileCentral.txt,all
 AzureCognitiveSearch.ChileCentral,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/AzureCognitiveSearch.ChileCentral-v4.txt,ipv4
 AzureCognitiveSearch.ChileCentral,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/AzureCognitiveSearch.ChileCentral-v6.txt,ipv6
+AzureCognitiveSearch.DenmarkEast,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/AzureCognitiveSearch.DenmarkEast.txt,all
+AzureCognitiveSearch.DenmarkEast,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/AzureCognitiveSearch.DenmarkEast-v4.txt,ipv4
+AzureCognitiveSearch.DenmarkEast,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/AzureCognitiveSearch.DenmarkEast-v6.txt,ipv6
 AzureCognitiveSearch.EastAsia,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/AzureCognitiveSearch.EastAsia.txt,all
 AzureCognitiveSearch.EastAsia,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/AzureCognitiveSearch.EastAsia-v4.txt,ipv4
 AzureCognitiveSearch.EastAsia,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/AzureCognitiveSearch.EastAsia-v6.txt,ipv6
@@ -2200,6 +2230,9 @@ AzureConnectors.CentralUSEUAP,https://raw.githubusercontent.com/netaryx/palo-alt
 AzureConnectors.ChileCentral,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/AzureConnectors.ChileCentral.txt,all
 AzureConnectors.ChileCentral,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/AzureConnectors.ChileCentral-v4.txt,ipv4
 AzureConnectors.ChileCentral,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/AzureConnectors.ChileCentral-v6.txt,ipv6
+AzureConnectors.DenmarkEast,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/AzureConnectors.DenmarkEast.txt,all
+AzureConnectors.DenmarkEast,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/AzureConnectors.DenmarkEast-v4.txt,ipv4
+AzureConnectors.DenmarkEast,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/AzureConnectors.DenmarkEast-v6.txt,ipv6
 AzureConnectors.EastAsia,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/AzureConnectors.EastAsia.txt,all
 AzureConnectors.EastAsia,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/AzureConnectors.EastAsia-v4.txt,ipv4
 AzureConnectors.EastAsia,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/AzureConnectors.EastAsia-v6.txt,ipv6
@@ -2413,6 +2446,9 @@ AzureContainerRegistry.CentralUSEUAP,https://raw.githubusercontent.com/netaryx/p
 AzureContainerRegistry.ChileCentral,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/AzureContainerRegistry.ChileCentral.txt,all
 AzureContainerRegistry.ChileCentral,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/AzureContainerRegistry.ChileCentral-v4.txt,ipv4
 AzureContainerRegistry.ChileCentral,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/AzureContainerRegistry.ChileCentral-v6.txt,ipv6
+AzureContainerRegistry.DenmarkEast,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/AzureContainerRegistry.DenmarkEast.txt,all
+AzureContainerRegistry.DenmarkEast,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/AzureContainerRegistry.DenmarkEast-v4.txt,ipv4
+AzureContainerRegistry.DenmarkEast,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/AzureContainerRegistry.DenmarkEast-v6.txt,ipv6
 AzureContainerRegistry.EastAsia,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/AzureContainerRegistry.EastAsia.txt,all
 AzureContainerRegistry.EastAsia,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/AzureContainerRegistry.EastAsia-v4.txt,ipv4
 AzureContainerRegistry.EastAsia,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/AzureContainerRegistry.EastAsia-v6.txt,ipv6
@@ -2626,6 +2662,9 @@ AzureCosmosDB.CentralUSEUAP,https://raw.githubusercontent.com/netaryx/palo-alto-
 AzureCosmosDB.ChileCentral,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/AzureCosmosDB.ChileCentral.txt,all
 AzureCosmosDB.ChileCentral,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/AzureCosmosDB.ChileCentral-v4.txt,ipv4
 AzureCosmosDB.ChileCentral,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/AzureCosmosDB.ChileCentral-v6.txt,ipv6
+AzureCosmosDB.DenmarkEast,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/AzureCosmosDB.DenmarkEast.txt,all
+AzureCosmosDB.DenmarkEast,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/AzureCosmosDB.DenmarkEast-v4.txt,ipv4
+AzureCosmosDB.DenmarkEast,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/AzureCosmosDB.DenmarkEast-v6.txt,ipv6
 AzureCosmosDB.EastAsia,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/AzureCosmosDB.EastAsia.txt,all
 AzureCosmosDB.EastAsia,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/AzureCosmosDB.EastAsia-v4.txt,ipv4
 AzureCosmosDB.EastAsia,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/AzureCosmosDB.EastAsia-v6.txt,ipv6
@@ -2842,6 +2881,9 @@ AzureDataExplorerManagement.CentralUSEUAP,https://raw.githubusercontent.com/neta
 AzureDataExplorerManagement.ChileCentral,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/AzureDataExplorerManagement.ChileCentral.txt,all
 AzureDataExplorerManagement.ChileCentral,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/AzureDataExplorerManagement.ChileCentral-v4.txt,ipv4
 AzureDataExplorerManagement.ChileCentral,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/AzureDataExplorerManagement.ChileCentral-v6.txt,ipv6
+AzureDataExplorerManagement.DenmarkEast,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/AzureDataExplorerManagement.DenmarkEast.txt,all
+AzureDataExplorerManagement.DenmarkEast,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/AzureDataExplorerManagement.DenmarkEast-v4.txt,ipv4
+AzureDataExplorerManagement.DenmarkEast,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/AzureDataExplorerManagement.DenmarkEast-v6.txt,ipv6
 AzureDataExplorerManagement.EastAsia,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/AzureDataExplorerManagement.EastAsia.txt,all
 AzureDataExplorerManagement.EastAsia,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/AzureDataExplorerManagement.EastAsia-v4.txt,ipv4
 AzureDataExplorerManagement.EastAsia,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/AzureDataExplorerManagement.EastAsia-v6.txt,ipv6
@@ -3208,6 +3250,9 @@ AzureDigitalTwins.CentralUSEUAP,https://raw.githubusercontent.com/netaryx/palo-a
 AzureDigitalTwins.ChileCentral,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/AzureDigitalTwins.ChileCentral.txt,all
 AzureDigitalTwins.ChileCentral,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/AzureDigitalTwins.ChileCentral-v4.txt,ipv4
 AzureDigitalTwins.ChileCentral,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/AzureDigitalTwins.ChileCentral-v6.txt,ipv6
+AzureDigitalTwins.DenmarkEast,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/AzureDigitalTwins.DenmarkEast.txt,all
+AzureDigitalTwins.DenmarkEast,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/AzureDigitalTwins.DenmarkEast-v4.txt,ipv4
+AzureDigitalTwins.DenmarkEast,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/AzureDigitalTwins.DenmarkEast-v6.txt,ipv6
 AzureDigitalTwins.EastAsia,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/AzureDigitalTwins.EastAsia.txt,all
 AzureDigitalTwins.EastAsia,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/AzureDigitalTwins.EastAsia-v4.txt,ipv4
 AzureDigitalTwins.EastAsia,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/AzureDigitalTwins.EastAsia-v6.txt,ipv6
@@ -3421,6 +3466,9 @@ AzureEventGrid.CentralUSEUAP,https://raw.githubusercontent.com/netaryx/palo-alto
 AzureEventGrid.ChileCentral,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/AzureEventGrid.ChileCentral.txt,all
 AzureEventGrid.ChileCentral,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/AzureEventGrid.ChileCentral-v4.txt,ipv4
 AzureEventGrid.ChileCentral,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/AzureEventGrid.ChileCentral-v6.txt,ipv6
+AzureEventGrid.DenmarkEast,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/AzureEventGrid.DenmarkEast.txt,all
+AzureEventGrid.DenmarkEast,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/AzureEventGrid.DenmarkEast-v4.txt,ipv4
+AzureEventGrid.DenmarkEast,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/AzureEventGrid.DenmarkEast-v6.txt,ipv6
 AzureEventGrid.EastAsia,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/AzureEventGrid.EastAsia.txt,all
 AzureEventGrid.EastAsia,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/AzureEventGrid.EastAsia-v4.txt,ipv4
 AzureEventGrid.EastAsia,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/AzureEventGrid.EastAsia-v6.txt,ipv6
@@ -3844,6 +3892,9 @@ AzureKeyVault.CentralUSEUAP,https://raw.githubusercontent.com/netaryx/palo-alto-
 AzureKeyVault.ChileCentral,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/AzureKeyVault.ChileCentral.txt,all
 AzureKeyVault.ChileCentral,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/AzureKeyVault.ChileCentral-v4.txt,ipv4
 AzureKeyVault.ChileCentral,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/AzureKeyVault.ChileCentral-v6.txt,ipv6
+AzureKeyVault.DenmarkEast,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/AzureKeyVault.DenmarkEast.txt,all
+AzureKeyVault.DenmarkEast,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/AzureKeyVault.DenmarkEast-v4.txt,ipv4
+AzureKeyVault.DenmarkEast,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/AzureKeyVault.DenmarkEast-v6.txt,ipv6
 AzureKeyVault.EastAsia,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/AzureKeyVault.EastAsia.txt,all
 AzureKeyVault.EastAsia,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/AzureKeyVault.EastAsia-v4.txt,ipv4
 AzureKeyVault.EastAsia,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/AzureKeyVault.EastAsia-v6.txt,ipv6
@@ -4060,6 +4111,9 @@ AzureMachineLearning.CentralUSEUAP,https://raw.githubusercontent.com/netaryx/pal
 AzureMachineLearning.ChileCentral,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/AzureMachineLearning.ChileCentral.txt,all
 AzureMachineLearning.ChileCentral,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/AzureMachineLearning.ChileCentral-v4.txt,ipv4
 AzureMachineLearning.ChileCentral,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/AzureMachineLearning.ChileCentral-v6.txt,ipv6
+AzureMachineLearning.DenmarkEast,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/AzureMachineLearning.DenmarkEast.txt,all
+AzureMachineLearning.DenmarkEast,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/AzureMachineLearning.DenmarkEast-v4.txt,ipv4
+AzureMachineLearning.DenmarkEast,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/AzureMachineLearning.DenmarkEast-v6.txt,ipv6
 AzureMachineLearning.EastAsia,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/AzureMachineLearning.EastAsia.txt,all
 AzureMachineLearning.EastAsia,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/AzureMachineLearning.EastAsia-v4.txt,ipv4
 AzureMachineLearning.EastAsia,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/AzureMachineLearning.EastAsia-v6.txt,ipv6
@@ -4282,6 +4336,9 @@ AzureMonitor.ChileCentral,https://raw.githubusercontent.com/netaryx/palo-alto-az
 AzureMonitor.Core,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/AzureMonitor.Core.txt,all
 AzureMonitor.Core,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/AzureMonitor.Core-v4.txt,ipv4
 AzureMonitor.Core,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/AzureMonitor.Core-v6.txt,ipv6
+AzureMonitor.DenmarkEast,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/AzureMonitor.DenmarkEast.txt,all
+AzureMonitor.DenmarkEast,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/AzureMonitor.DenmarkEast-v4.txt,ipv4
+AzureMonitor.DenmarkEast,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/AzureMonitor.DenmarkEast-v6.txt,ipv6
 AzureMonitor.EastAsia,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/AzureMonitor.EastAsia.txt,all
 AzureMonitor.EastAsia,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/AzureMonitor.EastAsia-v4.txt,ipv4
 AzureMonitor.EastAsia,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/AzureMonitor.EastAsia-v6.txt,ipv6
@@ -4645,6 +4702,9 @@ AzurePortal.CentralUSEUAP,https://raw.githubusercontent.com/netaryx/palo-alto-az
 AzurePortal.ChileCentral,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/AzurePortal.ChileCentral.txt,all
 AzurePortal.ChileCentral,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/AzurePortal.ChileCentral-v4.txt,ipv4
 AzurePortal.ChileCentral,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/AzurePortal.ChileCentral-v6.txt,ipv6
+AzurePortal.DenmarkEast,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/AzurePortal.DenmarkEast.txt,all
+AzurePortal.DenmarkEast,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/AzurePortal.DenmarkEast-v4.txt,ipv4
+AzurePortal.DenmarkEast,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/AzurePortal.DenmarkEast-v6.txt,ipv6
 AzurePortal.EastAsia,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/AzurePortal.EastAsia.txt,all
 AzurePortal.EastAsia,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/AzurePortal.EastAsia-v4.txt,ipv4
 AzurePortal.EastAsia,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/AzurePortal.EastAsia-v6.txt,ipv6
@@ -4858,6 +4918,9 @@ AzureResourceManager.CentralUSEUAP,https://raw.githubusercontent.com/netaryx/pal
 AzureResourceManager.ChileCentral,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/AzureResourceManager.ChileCentral.txt,all
 AzureResourceManager.ChileCentral,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/AzureResourceManager.ChileCentral-v4.txt,ipv4
 AzureResourceManager.ChileCentral,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/AzureResourceManager.ChileCentral-v6.txt,ipv6
+AzureResourceManager.DenmarkEast,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/AzureResourceManager.DenmarkEast.txt,all
+AzureResourceManager.DenmarkEast,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/AzureResourceManager.DenmarkEast-v4.txt,ipv4
+AzureResourceManager.DenmarkEast,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/AzureResourceManager.DenmarkEast-v6.txt,ipv6
 AzureResourceManager.EastAsia,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/AzureResourceManager.EastAsia.txt,all
 AzureResourceManager.EastAsia,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/AzureResourceManager.EastAsia-v4.txt,ipv4
 AzureResourceManager.EastAsia,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/AzureResourceManager.EastAsia-v6.txt,ipv6
@@ -5497,6 +5560,9 @@ BatchNodeManagement.CentralUSEUAP,https://raw.githubusercontent.com/netaryx/palo
 BatchNodeManagement.ChileCentral,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/BatchNodeManagement.ChileCentral.txt,all
 BatchNodeManagement.ChileCentral,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/BatchNodeManagement.ChileCentral-v4.txt,ipv4
 BatchNodeManagement.ChileCentral,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/BatchNodeManagement.ChileCentral-v6.txt,ipv6
+BatchNodeManagement.DenmarkEast,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/BatchNodeManagement.DenmarkEast.txt,all
+BatchNodeManagement.DenmarkEast,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/BatchNodeManagement.DenmarkEast-v4.txt,ipv4
+BatchNodeManagement.DenmarkEast,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/BatchNodeManagement.DenmarkEast-v6.txt,ipv6
 BatchNodeManagement.EastAsia,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/BatchNodeManagement.EastAsia.txt,all
 BatchNodeManagement.EastAsia,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/BatchNodeManagement.EastAsia-v4.txt,ipv4
 BatchNodeManagement.EastAsia,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/BatchNodeManagement.EastAsia-v6.txt,ipv6
@@ -5722,6 +5788,9 @@ DataFactory.CentralUSEUAP,https://raw.githubusercontent.com/netaryx/palo-alto-az
 DataFactory.ChileCentral,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/DataFactory.ChileCentral.txt,all
 DataFactory.ChileCentral,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/DataFactory.ChileCentral-v4.txt,ipv4
 DataFactory.ChileCentral,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/DataFactory.ChileCentral-v6.txt,ipv6
+DataFactory.DenmarkEast,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/DataFactory.DenmarkEast.txt,all
+DataFactory.DenmarkEast,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/DataFactory.DenmarkEast-v4.txt,ipv4
+DataFactory.DenmarkEast,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/DataFactory.DenmarkEast-v6.txt,ipv6
 DataFactory.EastAsia,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/DataFactory.EastAsia.txt,all
 DataFactory.EastAsia,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/DataFactory.EastAsia-v4.txt,ipv4
 DataFactory.EastAsia,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/DataFactory.EastAsia-v6.txt,ipv6
@@ -5986,6 +6055,9 @@ EventHub.CentralUSEUAP,https://raw.githubusercontent.com/netaryx/palo-alto-azure
 EventHub.ChileCentral,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/EventHub.ChileCentral.txt,all
 EventHub.ChileCentral,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/EventHub.ChileCentral-v4.txt,ipv4
 EventHub.ChileCentral,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/EventHub.ChileCentral-v6.txt,ipv6
+EventHub.DenmarkEast,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/EventHub.DenmarkEast.txt,all
+EventHub.DenmarkEast,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/EventHub.DenmarkEast-v4.txt,ipv4
+EventHub.DenmarkEast,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/EventHub.DenmarkEast-v6.txt,ipv6
 EventHub.EastAsia,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/EventHub.EastAsia.txt,all
 EventHub.EastAsia,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/EventHub.EastAsia-v4.txt,ipv4
 EventHub.EastAsia,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/EventHub.EastAsia-v6.txt,ipv6
@@ -6199,6 +6271,9 @@ GatewayManager.CentralUSEUAP,https://raw.githubusercontent.com/netaryx/palo-alto
 GatewayManager.ChileCentral,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/GatewayManager.ChileCentral.txt,all
 GatewayManager.ChileCentral,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/GatewayManager.ChileCentral-v4.txt,ipv4
 GatewayManager.ChileCentral,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/GatewayManager.ChileCentral-v6.txt,ipv6
+GatewayManager.DenmarkEast,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/GatewayManager.DenmarkEast.txt,all
+GatewayManager.DenmarkEast,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/GatewayManager.DenmarkEast-v4.txt,ipv4
+GatewayManager.DenmarkEast,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/GatewayManager.DenmarkEast-v6.txt,ipv6
 GatewayManager.EastAsia,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/GatewayManager.EastAsia.txt,all
 GatewayManager.EastAsia,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/GatewayManager.EastAsia-v4.txt,ipv4
 GatewayManager.EastAsia,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/GatewayManager.EastAsia-v6.txt,ipv6
@@ -6418,6 +6493,9 @@ HDInsight.CentralUSEUAP,https://raw.githubusercontent.com/netaryx/palo-alto-azur
 HDInsight.ChileCentral,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/HDInsight.ChileCentral.txt,all
 HDInsight.ChileCentral,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/HDInsight.ChileCentral-v4.txt,ipv4
 HDInsight.ChileCentral,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/HDInsight.ChileCentral-v6.txt,ipv6
+HDInsight.DenmarkEast,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/HDInsight.DenmarkEast.txt,all
+HDInsight.DenmarkEast,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/HDInsight.DenmarkEast-v4.txt,ipv4
+HDInsight.DenmarkEast,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/HDInsight.DenmarkEast-v6.txt,ipv6
 HDInsight.EastAsia,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/HDInsight.EastAsia.txt,all
 HDInsight.EastAsia,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/HDInsight.EastAsia-v4.txt,ipv4
 HDInsight.EastAsia,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/HDInsight.EastAsia-v6.txt,ipv6
@@ -6634,6 +6712,9 @@ LogicApps.CentralUSEUAP,https://raw.githubusercontent.com/netaryx/palo-alto-azur
 LogicApps.ChileCentral,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/LogicApps.ChileCentral.txt,all
 LogicApps.ChileCentral,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/LogicApps.ChileCentral-v4.txt,ipv4
 LogicApps.ChileCentral,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/LogicApps.ChileCentral-v6.txt,ipv6
+LogicApps.DenmarkEast,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/LogicApps.DenmarkEast.txt,all
+LogicApps.DenmarkEast,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/LogicApps.DenmarkEast-v4.txt,ipv4
+LogicApps.DenmarkEast,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/LogicApps.DenmarkEast-v6.txt,ipv6
 LogicApps.EastAsia,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/LogicApps.EastAsia.txt,all
 LogicApps.EastAsia,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/LogicApps.EastAsia-v4.txt,ipv4
 LogicApps.EastAsia,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/LogicApps.EastAsia-v6.txt,ipv6
@@ -6946,6 +7027,9 @@ MicrosoftContainerRegistry.CentralUSEUAP,https://raw.githubusercontent.com/netar
 MicrosoftContainerRegistry.ChileCentral,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/MicrosoftContainerRegistry.ChileCentral.txt,all
 MicrosoftContainerRegistry.ChileCentral,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/MicrosoftContainerRegistry.ChileCentral-v4.txt,ipv4
 MicrosoftContainerRegistry.ChileCentral,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/MicrosoftContainerRegistry.ChileCentral-v6.txt,ipv6
+MicrosoftContainerRegistry.DenmarkEast,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/MicrosoftContainerRegistry.DenmarkEast.txt,all
+MicrosoftContainerRegistry.DenmarkEast,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/MicrosoftContainerRegistry.DenmarkEast-v4.txt,ipv4
+MicrosoftContainerRegistry.DenmarkEast,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/MicrosoftContainerRegistry.DenmarkEast-v6.txt,ipv6
 MicrosoftContainerRegistry.EastAsia,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/MicrosoftContainerRegistry.EastAsia.txt,all
 MicrosoftContainerRegistry.EastAsia,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/MicrosoftContainerRegistry.EastAsia-v4.txt,ipv4
 MicrosoftContainerRegistry.EastAsia,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/MicrosoftContainerRegistry.EastAsia-v6.txt,ipv6
@@ -7168,6 +7252,9 @@ PowerBI.CentralUSEUAP,https://raw.githubusercontent.com/netaryx/palo-alto-azure-
 PowerBI.ChileCentral,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/PowerBI.ChileCentral.txt,all
 PowerBI.ChileCentral,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/PowerBI.ChileCentral-v4.txt,ipv4
 PowerBI.ChileCentral,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/PowerBI.ChileCentral-v6.txt,ipv6
+PowerBI.DenmarkEast,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/PowerBI.DenmarkEast.txt,all
+PowerBI.DenmarkEast,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/PowerBI.DenmarkEast-v4.txt,ipv4
+PowerBI.DenmarkEast,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/PowerBI.DenmarkEast-v6.txt,ipv6
 PowerBI.EastAsia,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/PowerBI.EastAsia.txt,all
 PowerBI.EastAsia,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/PowerBI.EastAsia-v4.txt,ipv4
 PowerBI.EastAsia,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/PowerBI.EastAsia-v6.txt,ipv6
@@ -7648,6 +7735,9 @@ PowerQueryOnline.CentralUSEUAP,https://raw.githubusercontent.com/netaryx/palo-al
 PowerQueryOnline.ChileCentral,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/PowerQueryOnline.ChileCentral.txt,all
 PowerQueryOnline.ChileCentral,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/PowerQueryOnline.ChileCentral-v4.txt,ipv4
 PowerQueryOnline.ChileCentral,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/PowerQueryOnline.ChileCentral-v6.txt,ipv6
+PowerQueryOnline.DenmarkEast,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/PowerQueryOnline.DenmarkEast.txt,all
+PowerQueryOnline.DenmarkEast,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/PowerQueryOnline.DenmarkEast-v4.txt,ipv4
+PowerQueryOnline.DenmarkEast,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/PowerQueryOnline.DenmarkEast-v6.txt,ipv6
 PowerQueryOnline.EastAsia,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/PowerQueryOnline.EastAsia.txt,all
 PowerQueryOnline.EastAsia,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/PowerQueryOnline.EastAsia-v4.txt,ipv4
 PowerQueryOnline.EastAsia,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/PowerQueryOnline.EastAsia-v6.txt,ipv6
@@ -8023,6 +8113,9 @@ ServiceBus.CentralUSEUAP,https://raw.githubusercontent.com/netaryx/palo-alto-azu
 ServiceBus.ChileCentral,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/ServiceBus.ChileCentral.txt,all
 ServiceBus.ChileCentral,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/ServiceBus.ChileCentral-v4.txt,ipv4
 ServiceBus.ChileCentral,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/ServiceBus.ChileCentral-v6.txt,ipv6
+ServiceBus.DenmarkEast,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/ServiceBus.DenmarkEast.txt,all
+ServiceBus.DenmarkEast,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/ServiceBus.DenmarkEast-v4.txt,ipv4
+ServiceBus.DenmarkEast,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/ServiceBus.DenmarkEast-v6.txt,ipv6
 ServiceBus.EastAsia,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/ServiceBus.EastAsia.txt,all
 ServiceBus.EastAsia,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/ServiceBus.EastAsia-v4.txt,ipv4
 ServiceBus.EastAsia,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/ServiceBus.EastAsia-v6.txt,ipv6
@@ -8236,6 +8329,9 @@ ServiceFabric.CentralUSEUAP,https://raw.githubusercontent.com/netaryx/palo-alto-
 ServiceFabric.ChileCentral,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/ServiceFabric.ChileCentral.txt,all
 ServiceFabric.ChileCentral,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/ServiceFabric.ChileCentral-v4.txt,ipv4
 ServiceFabric.ChileCentral,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/ServiceFabric.ChileCentral-v6.txt,ipv6
+ServiceFabric.DenmarkEast,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/ServiceFabric.DenmarkEast.txt,all
+ServiceFabric.DenmarkEast,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/ServiceFabric.DenmarkEast-v4.txt,ipv4
+ServiceFabric.DenmarkEast,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/ServiceFabric.DenmarkEast-v6.txt,ipv6
 ServiceFabric.EastAsia,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/ServiceFabric.EastAsia.txt,all
 ServiceFabric.EastAsia,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/ServiceFabric.EastAsia-v4.txt,ipv4
 ServiceFabric.EastAsia,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/ServiceFabric.EastAsia-v6.txt,ipv6
@@ -8449,6 +8545,9 @@ Sql.CentralUSEUAP,https://raw.githubusercontent.com/netaryx/palo-alto-azure-serv
 Sql.ChileCentral,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/Sql.ChileCentral.txt,all
 Sql.ChileCentral,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/Sql.ChileCentral-v4.txt,ipv4
 Sql.ChileCentral,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/Sql.ChileCentral-v6.txt,ipv6
+Sql.DenmarkEast,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/Sql.DenmarkEast.txt,all
+Sql.DenmarkEast,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/Sql.DenmarkEast-v4.txt,ipv4
+Sql.DenmarkEast,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/Sql.DenmarkEast-v6.txt,ipv6
 Sql.EastAsia,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/Sql.EastAsia.txt,all
 Sql.EastAsia,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/Sql.EastAsia-v4.txt,ipv4
 Sql.EastAsia,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/Sql.EastAsia-v6.txt,ipv6
@@ -8671,6 +8770,9 @@ Storage.CentralUSEUAP,https://raw.githubusercontent.com/netaryx/palo-alto-azure-
 Storage.ChileCentral,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/Storage.ChileCentral.txt,all
 Storage.ChileCentral,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/Storage.ChileCentral-v4.txt,ipv4
 Storage.ChileCentral,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/Storage.ChileCentral-v6.txt,ipv6
+Storage.DenmarkEast,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/Storage.DenmarkEast.txt,all
+Storage.DenmarkEast,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/Storage.DenmarkEast-v4.txt,ipv4
+Storage.DenmarkEast,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/Storage.DenmarkEast-v6.txt,ipv6
 Storage.EastAsia,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/Storage.EastAsia.txt,all
 Storage.EastAsia,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/Storage.EastAsia-v4.txt,ipv4
 Storage.EastAsia,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/Storage.EastAsia-v6.txt,ipv6
@@ -8893,6 +8995,9 @@ StorageSyncService.CentralUSEUAP,https://raw.githubusercontent.com/netaryx/palo-
 StorageSyncService.ChileCentral,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/StorageSyncService.ChileCentral.txt,all
 StorageSyncService.ChileCentral,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/StorageSyncService.ChileCentral-v4.txt,ipv4
 StorageSyncService.ChileCentral,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/StorageSyncService.ChileCentral-v6.txt,ipv6
+StorageSyncService.DenmarkEast,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/StorageSyncService.DenmarkEast.txt,all
+StorageSyncService.DenmarkEast,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/StorageSyncService.DenmarkEast-v4.txt,ipv4
+StorageSyncService.DenmarkEast,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/StorageSyncService.DenmarkEast-v6.txt,ipv6
 StorageSyncService.EastAsia,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/StorageSyncService.EastAsia.txt,all
 StorageSyncService.EastAsia,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/StorageSyncService.EastAsia-v4.txt,ipv4
 StorageSyncService.EastAsia,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/StorageSyncService.EastAsia-v6.txt,ipv6
@@ -9115,6 +9220,9 @@ WindowsVirtualDesktop.CentralUSEUAP,https://raw.githubusercontent.com/netaryx/pa
 WindowsVirtualDesktop.ChileCentral,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/WindowsVirtualDesktop.ChileCentral.txt,all
 WindowsVirtualDesktop.ChileCentral,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/WindowsVirtualDesktop.ChileCentral-v4.txt,ipv4
 WindowsVirtualDesktop.ChileCentral,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/WindowsVirtualDesktop.ChileCentral-v6.txt,ipv6
+WindowsVirtualDesktop.DenmarkEast,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/WindowsVirtualDesktop.DenmarkEast.txt,all
+WindowsVirtualDesktop.DenmarkEast,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/WindowsVirtualDesktop.DenmarkEast-v4.txt,ipv4
+WindowsVirtualDesktop.DenmarkEast,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/WindowsVirtualDesktop.DenmarkEast-v6.txt,ipv6
 WindowsVirtualDesktop.EastAsia,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/WindowsVirtualDesktop.EastAsia.txt,all
 WindowsVirtualDesktop.EastAsia,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/WindowsVirtualDesktop.EastAsia-v4.txt,ipv4
 WindowsVirtualDesktop.EastAsia,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/WindowsVirtualDesktop.EastAsia-v6.txt,ipv6
