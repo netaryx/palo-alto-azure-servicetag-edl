@@ -3088,6 +3088,9 @@ AzureDevOps.BrazilSouth,https://raw.githubusercontent.com/netaryx/palo-alto-azur
 AzureDevOps.CanadaCentral,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/AzureDevOps.CanadaCentral.txt,all
 AzureDevOps.CanadaCentral,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/AzureDevOps.CanadaCentral-v4.txt,ipv4
 AzureDevOps.CanadaCentral,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/AzureDevOps.CanadaCentral-v6.txt,ipv6
+AzureDevOps.CanadaEast,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/AzureDevOps.CanadaEast.txt,all
+AzureDevOps.CanadaEast,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/AzureDevOps.CanadaEast-v4.txt,ipv4
+AzureDevOps.CanadaEast,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/AzureDevOps.CanadaEast-v6.txt,ipv6
 AzureDevOps.CentralIndia,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/AzureDevOps.CentralIndia.txt,all
 AzureDevOps.CentralIndia,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/AzureDevOps.CentralIndia-v4.txt,ipv4
 AzureDevOps.CentralIndia,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/AzureDevOps.CentralIndia-v6.txt,ipv6
@@ -3133,6 +3136,9 @@ AzureDevOps.UAENorth,https://raw.githubusercontent.com/netaryx/palo-alto-azure-s
 AzureDevOps.UKSouth,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/AzureDevOps.UKSouth.txt,all
 AzureDevOps.UKSouth,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/AzureDevOps.UKSouth-v4.txt,ipv4
 AzureDevOps.UKSouth,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/AzureDevOps.UKSouth-v6.txt,ipv6
+AzureDevOps.UKWest,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/AzureDevOps.UKWest.txt,all
+AzureDevOps.UKWest,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/AzureDevOps.UKWest-v4.txt,ipv4
+AzureDevOps.UKWest,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/AzureDevOps.UKWest-v6.txt,ipv6
 AzureDevOps.WestCentralUS,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/AzureDevOps.WestCentralUS.txt,all
 AzureDevOps.WestCentralUS,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/AzureDevOps.WestCentralUS-v4.txt,ipv4
 AzureDevOps.WestCentralUS,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/AzureDevOps.WestCentralUS-v6.txt,ipv6
