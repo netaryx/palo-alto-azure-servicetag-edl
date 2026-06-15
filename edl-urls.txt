@@ -5452,6 +5452,9 @@ AzureSignalR.AustraliaSoutheast,https://raw.githubusercontent.com/netaryx/palo-a
 AzureSignalR.AustriaEast,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/AzureSignalR.AustriaEast.txt,all
 AzureSignalR.AustriaEast,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/AzureSignalR.AustriaEast-v4.txt,ipv4
 AzureSignalR.AustriaEast,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/AzureSignalR.AustriaEast-v6.txt,ipv6
+AzureSignalR.BelgiumCentral,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/AzureSignalR.BelgiumCentral.txt,all
+AzureSignalR.BelgiumCentral,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/AzureSignalR.BelgiumCentral-v4.txt,ipv4
+AzureSignalR.BelgiumCentral,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/AzureSignalR.BelgiumCentral-v6.txt,ipv6
 AzureSignalR.BrazilSouth,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/AzureSignalR.BrazilSouth.txt,all
 AzureSignalR.BrazilSouth,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/AzureSignalR.BrazilSouth-v4.txt,ipv4
 AzureSignalR.BrazilSouth,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/AzureSignalR.BrazilSouth-v6.txt,ipv6
@@ -5473,6 +5476,9 @@ AzureSignalR.CentralUS,https://raw.githubusercontent.com/netaryx/palo-alto-azure
 AzureSignalR.CentralUSEUAP,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/AzureSignalR.CentralUSEUAP.txt,all
 AzureSignalR.CentralUSEUAP,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/AzureSignalR.CentralUSEUAP-v4.txt,ipv4
 AzureSignalR.CentralUSEUAP,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/AzureSignalR.CentralUSEUAP-v6.txt,ipv6
+AzureSignalR.ChileCentral,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/AzureSignalR.ChileCentral.txt,all
+AzureSignalR.ChileCentral,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/AzureSignalR.ChileCentral-v4.txt,ipv4
+AzureSignalR.ChileCentral,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/AzureSignalR.ChileCentral-v6.txt,ipv6
 AzureSignalR.EastAsia,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/AzureSignalR.EastAsia.txt,all
 AzureSignalR.EastAsia,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/AzureSignalR.EastAsia-v4.txt,ipv4
 AzureSignalR.EastAsia,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/AzureSignalR.EastAsia-v6.txt,ipv6
