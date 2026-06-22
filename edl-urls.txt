@@ -3217,6 +3217,9 @@ AzureDevOps.SwedenCentral,https://raw.githubusercontent.com/netaryx/palo-alto-az
 AzureDevOps.SwedenSouth,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/AzureDevOps.SwedenSouth.txt,all
 AzureDevOps.SwedenSouth,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/AzureDevOps.SwedenSouth-v4.txt,ipv4
 AzureDevOps.SwedenSouth,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/AzureDevOps.SwedenSouth-v6.txt,ipv6
+AzureDevOps.UAECentral,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/AzureDevOps.UAECentral.txt,all
+AzureDevOps.UAECentral,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/AzureDevOps.UAECentral-v4.txt,ipv4
+AzureDevOps.UAECentral,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/AzureDevOps.UAECentral-v6.txt,ipv6
 AzureDevOps.UAENorth,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/AzureDevOps.UAENorth.txt,all
 AzureDevOps.UAENorth,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/AzureDevOps.UAENorth-v4.txt,ipv4
 AzureDevOps.UAENorth,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/AzureDevOps.UAENorth-v6.txt,ipv6
