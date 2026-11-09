@@ -229,6 +229,9 @@ ActionGroup.WestUS2,https://raw.githubusercontent.com/netaryx/palo-alto-azure-se
 ActionGroup.WestUS3,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/ActionGroup.WestUS3.txt,all
 ActionGroup.WestUS3,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/ActionGroup.WestUS3-v4.txt,ipv4
 ActionGroup.WestUS3,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/ActionGroup.WestUS3-v6.txt,ipv6
+AgentFabric,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/AgentFabric.txt,all
+AgentFabric,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/AgentFabric-v4.txt,ipv4
+AgentFabric,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/AgentFabric-v6.txt,ipv6
 ApiManagement,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/ApiManagement.txt,all
 ApiManagement,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/ApiManagement-v4.txt,ipv4
 ApiManagement,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/ApiManagement-v6.txt,ipv6
@@ -5185,6 +5188,9 @@ AzurePortal.WestUS2,https://raw.githubusercontent.com/netaryx/palo-alto-azure-se
 AzurePortal.WestUS3,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/AzurePortal.WestUS3.txt,all
 AzurePortal.WestUS3,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/AzurePortal.WestUS3-v4.txt,ipv4
 AzurePortal.WestUS3,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/AzurePortal.WestUS3-v6.txt,ipv6
+AzureQuantum,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/AzureQuantum.txt,all
+AzureQuantum,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/AzureQuantum-v4.txt,ipv4
+AzureQuantum,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/AzureQuantum-v6.txt,ipv6
 AzureResourceManager,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/AzureResourceManager.txt,all
 AzureResourceManager,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/AzureResourceManager-v4.txt,ipv4
 AzureResourceManager,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/AzureResourceManager-v6.txt,ipv6
@@ -9859,6 +9865,9 @@ SystemServiceAzureSpringAppsResourceProvider,https://raw.githubusercontent.com/n
 VideoIndexer,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/VideoIndexer.txt,all
 VideoIndexer,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/VideoIndexer-v4.txt,ipv4
 VideoIndexer,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/VideoIndexer-v6.txt,ipv6
+Windows365,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/Windows365.txt,all
+Windows365,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/Windows365-v4.txt,ipv4
+Windows365,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/Windows365-v6.txt,ipv6
 WindowsAdminCenter,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/WindowsAdminCenter.txt,all
 WindowsAdminCenter,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/WindowsAdminCenter-v4.txt,ipv4
 WindowsAdminCenter,https://raw.githubusercontent.com/netaryx/palo-alto-azure-servicetag-edl/main/edl/WindowsAdminCenter-v6.txt,ipv6
